@@ -1,1 +1,1 @@
-# URL-based-phishing-detection-using-KNN-and-CNN
+# URL-based-phishing-detection-using-KNN
